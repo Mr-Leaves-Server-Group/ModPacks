@@ -7,10 +7,23 @@
       "is_active": true,
       "release_date": "2026-02-09",
       "description": "《愚者》是一款高版本冒险向整合包。",
-      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/serverpack/TheFoolServer-0.1.1.zip",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/TheFool/TheFoolServer-0.1.1.zip",
       "client_download_url": "https://bbsmc.net/modpack/the-fool",
       "source_link": "https://bbsmc.net/modpack/the-fool",
       "recommend_ram": "8GB",
+      "recommend_spec": "⭐️至尊R5K"
+    },
+    {
+      "id": 100002,
+      "name": "乌托邦",
+      "version": "3.5.1-fix",
+      "is_active": true,
+      "release_date": "2026-02-09",
+      "description": "当你厌倦匆忙的生活时，那里有着宁静的小屋，等待你的归来。耕耘少许时光，垂钓静谧湖畔，沐浴温柔阳光下的田园气息。在这个世界里，你将品味生命的安宁，享受悠然自得的片刻。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/WuTuoBang/WuTuoBang-Server-3.5.1-fix.zip",
+      "client_download_url": "https://bbsmc.net/modpack/utopia-journey",
+      "source_link": "https://bbsmc.net/modpack/utopia-journey",
+      "recommend_ram": "16GB",
       "recommend_spec": "⭐️至尊R5K"
     }
   ]
