@@ -10,8 +10,8 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/TheFool/TheFoolServer-0.1.1.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/TheFool/TheFool-Client-0.1.1.zip",
       "source_link": "https://bbsmc.net/modpack/the-fool",
-      "recommend_ram": "8GB",
-      "recommend_spec": "⭐️至尊R5K"
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】"
     },
     {
       "id": 100002,
@@ -23,8 +23,8 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/WuTuoBang/WuTuoBang-Server-3.5.1-fix.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/WuTuoBang/3.5.1fix.zip",
       "source_link": "https://bbsmc.net/modpack/utopia-journey",
-      "recommend_ram": "16GB",
-      "recommend_spec": "⭐️至尊R5K"
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】"
     }
   ]
 }
