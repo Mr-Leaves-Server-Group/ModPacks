@@ -65,7 +65,7 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/AFoP/AFoP-Server-Continue-1.6.3.Fix.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/AFoP/AFoP.Continue-1.6.3-Fix.zip",
       "source_link": "https://www.mcmod.cn/modpack/837.html",
-      "minimal_spec": "⬆️性能R3K【12G】",
+      "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【16G】"
     },
     {
@@ -82,7 +82,7 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LMQ/LMQ-1.5.4-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LMQ/LMQ-1.5.4-Client.zip",
       "source_link": "https://bbsmc.net/modpack/luomuqu",
-      "minimal_spec": "⬆️性能R3K【12G】",
+      "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【16G】"
     },
         {
@@ -99,7 +99,7 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MR/MR-3.3.10.5-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MR/MR-3.3.10.5.zip",
       "source_link": "https://bbsmc.net/modpack/martyred-road",
-      "minimal_spec": "⬆️性能R3K【12G】",
+      "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【16G】"
     }
   ]
