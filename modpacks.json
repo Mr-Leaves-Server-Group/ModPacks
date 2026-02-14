@@ -2,7 +2,7 @@
   "modpacks": [
     {
       "id": 100001,
-      "name": "愚者",
+      "name": "愚者 - The Fool",
       "version": "0.1.1",
       "is_active": true,
       "release_date": "2026-02-09",
@@ -19,7 +19,7 @@
     },
     {
       "id": 100002,
-      "name": "乌托邦",
+      "name": "乌托邦探险之旅",
       "version": "3.5.1-fix",
       "is_active": true,
       "release_date": "2026-02-09",
@@ -85,7 +85,7 @@
       "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【16G】"
     },
-        {
+    {
       "id": 100006,
       "name": "殉道之路",
       "version": "3.3.10.5",
@@ -99,6 +99,23 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MR/MR-3.3.10.5-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MR/MR-3.3.10.5.zip",
       "source_link": "https://bbsmc.net/modpack/martyred-road",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【16G】"
+    },
+    {
+      "id": 100007,
+      "name": "龙之冒险:新征程",
+      "version": "2.3a",
+      "is_active": true,
+      "release_date": "2026-02-14",
+      "java_version": "17",
+      "total_mods": 236,
+      "support_author_url": "https://space.bilibili.com/85770532",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/LM.webp",
+      "description": "1000+精心制作的任务引导，就算是没有接触过模组的小白，只要跟随任务指引也能畅玩本整合包。任务商店，可通过完成任务获取代币，用于在商店中购买商品或抽奖。炫酷实用的黑魔法，召唤属于自己的亡灵军团。近百种饰品，其中有一部分为整合包自制饰品。整合包强制佩戴七咒之戒，前期难度较高，但在中后期可将七咒之戒转变为救赎之戒，是要背负诅咒还是获得救赎，由你自己来决定。调整修改了许多物品的合成表以及的配置文件，你所熟知的模组在本整合包中会有些许不同。无法自然恢复生命值。可以通过营火、医疗物品、魔法、特殊道具来恢复生命值。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LM/LM-2.3a-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LM/LM-2.3a-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/lzmx",
       "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【16G】"
     }
