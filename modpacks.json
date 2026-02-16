@@ -118,6 +118,23 @@
       "source_link": "https://bbsmc.net/modpack/lzmx",
       "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【8G】"
+    },
+    {
+      "id":100008,
+      "name": "沉浸战斗",
+      "version": "4.1",
+      "is_active": true,
+      "release_date": "2026-02-16",
+      "java_version": "17",
+      "total_mods": 289,
+      "support_author_url": "https://ifdian.net/a/latxx",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/CJZD.webp",
+      "description":"以史诗战斗为核心战斗系统，舍弃多余的要素，加以大量的细节体验优化，带来沉浸的冒险战斗体验。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CJZD/CJZD-4.1-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CJZD/CJZD-4.1-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/immersive-fight",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】"
     }
   ]
 }
