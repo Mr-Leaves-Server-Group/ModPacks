@@ -2,7 +2,7 @@
   "modpacks": [
     {
       "id": 100001,
-      "name": "愚者 - The Fool",
+      "name": "愚者-TheFool",
       "version": "0.2.2",
       "is_active": true,
       "release_date": "2026-04-10",
@@ -163,22 +163,22 @@
     {
       "id":100009,
       "name": "农场物语",
-      "version": "1.3.4",
+      "version": "1.3.9",
       "is_active": true,
-      "release_date": "2026-02-17",
+      "release_date": "2026-04-10",
       "java_version": "17",
-      "total_mods": 263,
+      "total_mods": 293,
       "support_author_url": "https://afdian.tv/a/zicaiot",
       "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/FT.png",
       "description":"仿星露谷风格的整合包。Let's Do系列 / 原版扩展，玩法：[酿酒 | 烹饪 | 探险 | 建筑 | 探索]",
-      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.4-Server.zip",
-      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.4-Client.mrpack",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.9-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.9-Client.mrpack",
       "source_link": "https://bbsmc.net/modpack/ft-wt",
       "minimal_spec": "⭐️至尊R5K【8G】",
       "recommend_spec": "⭐️至尊R5K【16G】",
-      "core_type": "none",
-      "core_version": "",
-      "mc_version": ""
+      "core_type": "forge",
+      "core_version": "47.4.10",
+      "mc_version": "1.20.1"
     },
     {
       "id":100010,
