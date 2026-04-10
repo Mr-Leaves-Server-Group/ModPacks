@@ -214,7 +214,7 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/ZCDY/ZCDY5-5.2.6-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/ZCDY/ZCDY5-5.2.6-Client.zip",
       "source_link": "https://bbsmc.net/modpack/aruori",
-      "minimal_spec": "⬆️性能R3K【6G】",
+      "minimal_spec": "✅特惠EPC【8G】",
       "recommend_spec": "⬆️性能R3K【12G】",
       "core_type": "forge",
       "core_version": "47.4.16",
@@ -234,11 +234,31 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/ZCDY/ZCDY6-6.3.5-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/ZCDY/ZCDY6-6.3.5-Client.zip",
       "source_link": "https://bbsmc.net/modpack/aruori",
-      "minimal_spec": "⬆️性能R3K【6G】",
+      "minimal_spec": "✅特惠EPC【8G】",
       "recommend_spec": "⬆️性能R3K【12G】",
       "core_type": "neoforge",
       "core_version": "21.1.222",
       "mc_version": "1.21.1"
+    },
+    {
+      "id":100013,
+      "name": "神话:起源",
+      "version": "重置版1.3",
+      "is_active": true,
+      "release_date": "2026-04-10",
+      "java_version": "17",
+      "total_mods": 265,
+      "support_author_url": "https://space.bilibili.com/1678248013",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/SHQY.webp",
+      "description":"登神，是我的宿命。弑神，是我的使命” 《神话:起源》是一款以神秘遗物、莱特兰.恶意、铁魔法、诡厄巫法为主的RPG、冒险、魔法类大型整合包。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/SHQY/SHQY-1.3-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/SHQY/SHQY-1.3-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/5.0",
+      "minimal_spec": "⭐️至尊R5K【8G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "47.4.0",
+      "mc_version": "1.20.1"
     }
   ]
 }
