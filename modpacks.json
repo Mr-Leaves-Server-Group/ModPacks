@@ -15,7 +15,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/TheFool/TheFool-Client-0.1.1.zip",
       "source_link": "https://bbsmc.net/modpack/the-fool",
       "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【8G】"
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 100002,
@@ -32,7 +35,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/WuTuoBang/3.5.1fix.zip",
       "source_link": "https://bbsmc.net/modpack/utopia-journey",
       "minimal_spec": "⬆️性能R3K【12G】",
-      "recommend_spec": "⭐️至尊R5K【16G】"
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 100003,
@@ -49,7 +55,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/XiangCaoJiYuan/XiangCaoJiYuan-Client-2.6.1.zip",
       "source_link": "https://bbsmc.net/modpack/vefc",
       "minimal_spec": "⬆️性能R3K【12G】",
-      "recommend_spec": "⭐️至尊R5K【16G】"
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 100004,
@@ -66,7 +75,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/AFoP/AFoP.Continue-1.6.3-Fix.zip",
       "source_link": "https://www.mcmod.cn/modpack/837.html",
       "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【16G】"
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 100005,
@@ -83,7 +95,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LMQ/LMQ-1.5.4-Client.zip",
       "source_link": "https://bbsmc.net/modpack/luomuqu",
       "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【8G】"
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 100006,
@@ -100,7 +115,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MR/MR-3.3.10.5.zip",
       "source_link": "https://bbsmc.net/modpack/martyred-road",
       "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【8G】"
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 100007,
@@ -117,7 +135,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LM/LM-2.3a-Client.zip",
       "source_link": "https://bbsmc.net/modpack/lzmx",
       "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【8G】"
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id":100008,
@@ -134,7 +155,10 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CJZD/CJZD-4.1-Client.zip",
       "source_link": "https://bbsmc.net/modpack/immersive-fight",
       "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【8G】"
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id":100009,
@@ -151,7 +175,30 @@
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.4-Client.mrpack",
       "source_link": "https://bbsmc.net/modpack/ft-wt",
       "minimal_spec": "⭐️至尊R5K【8G】",
-      "recommend_spec": "⭐️至尊R5K【16G】"
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
+    },
+    {
+      "id":100010,
+      "name": "脆骨症",
+      "version": "0.3.2",
+      "is_active": true,
+      "release_date": "2026-04-10",
+      "java_version": "17",
+      "total_mods": 263,
+      "support_author_url": "https://afdian.tv/a/zicaiot",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/FT.png",
+      "description":"仿星露谷风格的整合包。Let's Do系列 / 原版扩展，玩法：[酿酒 | 烹饪 | 探险 | 建筑 | 探索]",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.4-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FT/FT-1.3.4-Client.mrpack",
+      "source_link": "https://bbsmc.net/modpack/ft-wt",
+      "minimal_spec": "⭐️至尊R5K【8G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     }
   ]
 }
