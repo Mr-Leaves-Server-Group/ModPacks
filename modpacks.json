@@ -259,6 +259,26 @@
       "core_type": "forge",
       "core_version": "47.4.0",
       "mc_version": "1.20.1"
+    },
+    {
+      "id":100014,
+      "name": "海上机械师",
+      "version": "1.3.2",
+      "is_active": true,
+      "release_date": "2026-04-10",
+      "java_version": "17",
+      "total_mods": 171,
+      "support_author_url": "https://space.bilibili.com/1678248013",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/HSXJS.webp",
+      "description":"核战爆发，下界崩溃，熔岩溢出到主世界，全球升温，冰川融化，主世界被淹没的只剩几个小岛。你将设法在这样的末世中存活下去。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/HSJXS/HSJXS-1.3.2-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/HSJXS/HSJXS-1.3.2-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/tolu",
+      "minimal_spec": "✅特惠EPC【8G】",
+      "recommend_spec": "⬆️性能R3K【12G】",
+      "core_type": "forge",
+      "core_version": "47.3.12",
+      "mc_version": "1.20.1"
     }
   ]
 }
