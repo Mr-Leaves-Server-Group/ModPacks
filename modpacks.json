@@ -360,5 +360,26 @@
       "core_version": "47.4.0",
       "mc_version": "1.20.1"
     }
+    ,
+    {
+      "id":1019,
+      "name": "测试",
+      "version": "2.1.3-fix",
+      "is_active": true,
+      "release_date": "2026-04-12",
+      "java_version": "17",
+      "total_mods": 259,
+      "support_author_url": "https://scarefree.cn/",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/DJYWL.png",
+      "description":"这是一个新时代拔刀剑整合包，以拔刀剑贯穿主线完成。整合包整合了目前该版本所有的拔刀附属，并且还自行移植了二十多把老版本附属拔刀到该整合包。在这里，你可以尽情向所有敌人挥刀，不会出现因为怪物数值不理想一刀切的情况。在这里，你不仅可以见到儿时陪你征战的老伙计，还能看到近期大众视野中的许多新伙伴。整合包延续了原版的传统，将末影龙魔改成为主线的最终Boss。",
+      "server_download_url": "",
+      "client_download_url": "",
+      "source_link": "https://bbsmc.net/modpack/djywl",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "forge",
+      "core_version": "47.4.0",
+      "mc_version": "1.20.1"
+    }
   ]
 }
