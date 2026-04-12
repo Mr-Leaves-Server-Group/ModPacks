@@ -414,11 +414,30 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FKBKMXJY/FKBKMXJY-2.3-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FKBKMXJY/FKBKMXJY-2.3-Client.mrpack",
       "source_link": "https://bbsmc.net/modpack/cobblemonxera",
-      "minimal_spec": "⬆️性能R3K【12G】",
-      "recommend_spec": "⭐️至尊R5K【16G】",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
       "core_type": "fabric",
       "core_version": "0.18.4",
       "mc_version": "1.21.1"
+    },{
+      "id":1022,
+      "name": "惊变100天-希望与绝望",
+      "version": "19.2.73",
+      "is_active": true,
+      "release_date": "2026-04-12",
+      "java_version": "21",
+      "total_mods": 138,
+      "support_author_url": "https://github.com/Lithum-12",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JBYBT.webp",
+      "description":"你无法进入下界，末地，但是你可以在主世界，搜索这些存在于它们的材料。每过一段时间，僵尸将会发生突变，以至于僵尸会破坏方块以及放置方块，难度越来越大。每天都会发生一些随机事件，你需要应对不同的危险。同时，你需要保证你的状态良好，而不是整天不睡觉。求生，是你唯一的目标，携上你的伙伴，在末日中开辟新的道路！",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JBYBT/JBYBT-19.2.73-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JBYBT/JBYBT-19.2.73-Client.mrpack",
+      "source_link": "https://bbsmc.net/modpack/hope-and-despair-",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "forge",
+      "core_version": "47.4.13",
+      "mc_version": "1.20.1"
     }
   ]
 }
