@@ -356,7 +356,7 @@
       "source_link": "https://bbsmc.net/modpack/djywl",
       "minimal_spec": "✅特惠EPC【8G】",
       "recommend_spec": "⬆️性能R3K【12G】",
-      "core_type": "neoforge",
+      "core_type": "forge",
       "core_version": "47.4.0",
       "mc_version": "1.20.1"
     }
