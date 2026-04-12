@@ -354,8 +354,8 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/DJYWL/DJYWL-2.1.3-fix-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/DJYWL/DJYWL-2.1.3-fix-Client.zip",
       "source_link": "https://bbsmc.net/modpack/djywl",
-      "minimal_spec": "✅特惠EPC【8G】",
-      "recommend_spec": "⬆️性能R3K【12G】",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
       "core_type": "forge",
       "core_version": "47.4.0",
       "mc_version": "1.20.1"
