@@ -386,7 +386,7 @@
       "version": "2.1.0",
       "is_active": true,
       "release_date": "2026-04-12",
-      "java_version": "21",
+      "java_version": "17",
       "total_mods": 198,
       "support_author_url": "https://afdian.com/a/P1nero",
       "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/YMZG.webp",
@@ -394,11 +394,31 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/YMZG/YMZG-2.1.0-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/YMZG/YMZG-2.1.0-Client.zip",
       "source_link": "https://bbsmc.net/modpack/the-casket-of-reveries",
-      "minimal_spec": "⬆️性能R3K【6G】",
-      "recommend_spec": "⭐️至尊R5K【8G】",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
       "core_type": "forge",
       "core_version": "47.4.4",
       "mc_version": "1.20.1"
+    },
+    {
+      "id":1021,
+      "name": "方块宝可梦x纪元",
+      "version": "2.3",
+      "is_active": true,
+      "release_date": "2026-04-12",
+      "java_version": "21",
+      "total_mods": 259,
+      "support_author_url": "https://afdian.com/a/isxiaohuoniao",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/FKBKMXJY.webp",
+      "description":"在这里你可以选择捕捉精灵集齐全图鉴，成为一代宝可梦收服大师，也能选择培育宝可梦挑战不同地区，成就冠军之名，还能骑乘着宝可梦游历这方世界，寻找那存在于世界各处的宝藏。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FKBKMXJY/FKBKMXJY-2.3-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FKBKMXJY/FKBKMXJY-2.3-Client.mrpack",
+      "source_link": "https://bbsmc.net/modpack/cobblemonxera",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "fabric",
+      "core_version": "0.18.4",
+      "mc_version": "1.21.1"
     }
   ]
 }
