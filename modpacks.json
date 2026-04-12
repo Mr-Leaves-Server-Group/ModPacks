@@ -438,6 +438,25 @@
       "core_type": "forge",
       "core_version": "47.4.13",
       "mc_version": "1.20.1"
+    },{
+      "id":1022,
+      "name": "自然之旅3",
+      "version": "1.9",
+      "is_active": true,
+      "release_date": "2026-04-12",
+      "java_version": "17",
+      "total_mods": 207,
+      "support_author_url": "https://afdian.com/a/wuyemc906",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/ZRZL3.webp",
+      "description":"新旅途，邂逅超多动物与自然的休闲之旅。这是一个非常休闲的整合包，不以打怪冒险为目的，而是以旅途探索，动物收集，美食烹饪，建筑装饰为主。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/ZRZL3/ZRZL3-1.9-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/ZRZL3/ZRZL3-1.9-Client.mrpack",
+      "source_link": "https://bbsmc.net/modpack/ziranzhilv3",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "47.3.0",
+      "mc_version": "1.20.1"
     }
   ]
 }
