@@ -359,8 +359,7 @@
       "core_type": "forge",
       "core_version": "47.4.0",
       "mc_version": "1.20.1"
-    }
-    ,
+    },
     {
       "id":1019,
       "name": "空中厕所2",
@@ -380,6 +379,26 @@
       "core_type": "fabric",
       "core_version": "0.16.14",
       "mc_version": "1.21.1"
+    },
+    {
+      "id":1020,
+      "name": "远梦之棺",
+      "version": "2.1.0",
+      "is_active": true,
+      "release_date": "2026-04-12",
+      "java_version": "21",
+      "total_mods": 198,
+      "support_author_url": "https://afdian.com/a/P1nero",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/YMZG.webp",
+      "description":"在此整合包中，你将扮演一位来自远方的救世主，遵循观察者的指引，击败各路 Boss，寻回失落的火花，点亮祭坛！最终，挑战 Wraithon 以拯救世界！",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/YMZG/YMZG-2.1.0-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/YMZG/YMZG-2.1.0-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/the-casket-of-reveries",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "forge",
+      "core_version": "47.4.4",
+      "mc_version": "1.20.1"
     }
   ]
 }
