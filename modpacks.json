@@ -476,6 +476,25 @@
       "core_type": "forge",
       "core_version": "47.3.0",
       "mc_version": "1.20.1"
+    },{
+      "id":1025,
+      "name": "平底锅侠",
+      "version": "1.6.0",
+      "is_active": true,
+      "release_date": "2026-04-13",
+      "java_version": "17",
+      "total_mods": 57,
+      "support_author_url": "hhttps://afdian.com/a/P1nero",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/PDGX.webp",
+      "description":"白天模拟经营，夜晚化身平底锅侠抵御袭击！进入游戏后会自动出生在村庄，弹出指引对话，玩家可自行选择店铺，入驻后即可开始经营。如果有足够多的金币也可雇佣村民。白天会有客户村民生成，玩家需要根据村民的需求炒出对应的料理，右键对话交付食物以完成交易，两天后夜晚会有袭击生成，你需要拿起平底锅和锅铲化身平底锅侠来保卫村庄。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/PDGX/PDGX-1.6.0-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/PDGX/PDGX-1.6.0-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/skillet-man",
+      "minimal_spec": "✅特惠EPC【4G】",
+      "recommend_spec": "⬆️性能R3K【6G】",
+      "core_type": "forge",
+      "core_version": "47.4.0",
+      "mc_version": "1.20.1"
     }
   ]
 }
