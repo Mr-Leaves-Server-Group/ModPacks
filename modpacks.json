@@ -457,6 +457,25 @@
       "core_type": "forge",
       "core_version": "47.3.0",
       "mc_version": "1.20.1"
+    },{
+      "id":1024,
+      "name": "末日狂徒",
+      "version": "5.0.5",
+      "is_active": true,
+      "release_date": "2026-04-13",
+      "java_version": "17",
+      "total_mods": 201,
+      "support_author_url": "https://afdian.com/a/HSWJR",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/MRKT.webp",
+      "description":"这是末日惊变整合包，僵尸等怪物会随着天数的增加不断出现新的强大的变种，尸潮间隔一晚生成，同样随着天数的增加，尸潮的种类数量也同样会增加，愈发强大，规律是，25天、50天、75天，75天后，尸潮将会掉落前往僵尸荒原维度的道具，哪里有BOOS等待你挑战。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MRKT/MRKT-5.0.5-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MRKT/MRKT-5.0.5-Client.mrpack",
+      "source_link": "https://bbsmc.net/modpack/mrkt",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "forge",
+      "core_version": "47.3.0",
+      "mc_version": "1.20.1"
     }
   ]
 }
