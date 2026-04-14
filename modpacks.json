@@ -535,11 +535,11 @@
       "mc_version": "1.21.1"
     },{
       "id":1028,
-      "name": "机械动力6.0整合",
+      "name": "机械动力:齿轮盛宴",
       "version": "0.4.7.12",
       "is_active": true,
       "release_date": "2026-04-14",
-      "java_version": "21",
+      "java_version": "17",
       "total_mods": 339,
       "support_author_url": "https://afdian.com/a/hk11238981",
       "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JXDLCLSY.webp",
