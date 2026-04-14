@@ -514,6 +514,25 @@
       "core_type": "forge",
       "core_version": "43.3.8",
       "mc_version": "1.19.2"
+    },{
+      "id":1027,
+      "name": "机械动力6.0整合",
+      "version": "1.0.7",
+      "is_active": true,
+      "release_date": "2026-04-14",
+      "java_version": "21",
+      "total_mods": 39,
+      "support_author_url": "https://space.bilibili.com/10294289",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JXDL6.webp",
+      "description":"机械动力6.0+史诗地形，代码贡献者维护：整合包作者为机械动力官方贡献代码，提供最新的优化与修复。性能优化：独特的技术优化，相较其他整合包至少提升 30% 以上的性能。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JXDL6/JXDL6-1.0.7-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JXDL6/JXDL6-1.0.7-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/purecreate6.0",
+      "minimal_spec": "✅特惠EPC【4G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "neoforge",
+      "core_version": "21.1.192",
+      "mc_version": "1.21.1"
     }
   ]
 }
