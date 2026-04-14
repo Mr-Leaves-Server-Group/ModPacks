@@ -484,7 +484,7 @@
       "release_date": "2026-04-13",
       "java_version": "17",
       "total_mods": 57,
-      "support_author_url": "hhttps://afdian.com/a/P1nero",
+      "support_author_url": "https://afdian.com/a/P1nero",
       "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/PDGX.webp",
       "description":"白天模拟经营，夜晚化身平底锅侠抵御袭击！进入游戏后会自动出生在村庄，弹出指引对话，玩家可自行选择店铺，入驻后即可开始经营。如果有足够多的金币也可雇佣村民。白天会有客户村民生成，玩家需要根据村民的需求炒出对应的料理，右键对话交付食物以完成交易，两天后夜晚会有袭击生成，你需要拿起平底锅和锅铲化身平底锅侠来保卫村庄。",
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/PDGX/PDGX-1.6.0-Server.zip",
@@ -495,6 +495,25 @@
       "core_type": "forge",
       "core_version": "47.4.0",
       "mc_version": "1.20.1"
+    },{
+      "id":1026,
+      "name": "脆骨症:黯光",
+      "version": "1.0.2",
+      "is_active": true,
+      "release_date": "2026-04-14",
+      "java_version": "17",
+      "total_mods": 174,
+      "support_author_url": "https://afdian.com/a/yorunina",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/CGZAG.webp",
+      "description":"相较于原整合包，添加了大量的知名维度模组以丰富游戏内容，同时删除了优化了被玩家诟病的如凋零风暴等游戏内容，旨在让玩家能够通过脆骨症的体验来尽可能不受限的探索那些维度模组。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CGZAG/CGZAG-1.0.2-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CGZAG/CGZAG-1.0.2-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/no-flesh-within-chest-dim",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⬆️性能R3K【12G】",
+      "core_type": "forge",
+      "core_version": "43.3.8",
+      "mc_version": "1.19.2"
     }
   ]
 }
