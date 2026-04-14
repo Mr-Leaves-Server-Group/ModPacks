@@ -533,6 +533,25 @@
       "core_type": "neoforge",
       "core_version": "21.1.192",
       "mc_version": "1.21.1"
+    },{
+      "id":1028,
+      "name": "机械动力6.0整合",
+      "version": "0.4.7.12",
+      "is_active": true,
+      "release_date": "2026-04-14",
+      "java_version": "21",
+      "total_mods": 339,
+      "support_author_url": "https://afdian.com/a/hk11238981",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JXDLCLSY.webp",
+      "description":"欢迎来到齿轮盛宴的世界。 本整合包由超级工程师SSWTLZZ69和超级大厨JasonQ以及自动化大神AzureCrab联合开发 在这里你将体验到搭建产线的乐趣 也能体验到沉浸式做菜的欢乐 更能体验到丰富的世界之旅，怪物、美景层出不穷，美不胜收 愿齿轮盛宴能给你带来盛宴一般的感受",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JXDLCLSY/JXDLCLSY-0.4.7.12-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JXDLCLSY/JXDLCLSY-0.4.7.12-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/create-delight",
+      "minimal_spec": "⭐️至尊R5K【8G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "47.4.10",
+      "mc_version": "1.20.1"
     }
   ]
 }
