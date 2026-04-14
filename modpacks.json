@@ -542,7 +542,7 @@
       "java_version": "17",
       "total_mods": 339,
       "support_author_url": "https://afdian.com/a/hk11238981",
-      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JXDLCLSY.webp",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JXDLCLSY.png",
       "description":"欢迎来到齿轮盛宴的世界。 本整合包由超级工程师SSWTLZZ69和超级大厨JasonQ以及自动化大神AzureCrab联合开发 在这里你将体验到搭建产线的乐趣 也能体验到沉浸式做菜的欢乐 更能体验到丰富的世界之旅，怪物、美景层出不穷，美不胜收 愿齿轮盛宴能给你带来盛宴一般的感受",
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JXDLCLSY/JXDLCLSY-0.4.7.12-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JXDLCLSY/JXDLCLSY-0.4.7.12-Client.zip",
@@ -552,6 +552,25 @@
       "core_type": "forge",
       "core_version": "47.4.10",
       "mc_version": "1.20.1"
+    },{
+      "id":1029,
+      "name": "工匠:技艺革新",
+      "version": "0.41a",
+      "is_active": true,
+      "release_date": "2026-04-14",
+      "java_version": "17",
+      "total_mods": 274,
+      "support_author_url": "https://bbsmc.net/organization/ctiteam",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/GJJYGX.webp",
+      "description":"工匠：技艺革新 是一个以匠魂为核心的中高度魔改科技向整包。整合包内设计了多样化的流程和场景，便于玩家在体验众多科技模组、冒险模组的同时也能全方位地体验匠魂模组。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/GJJYGX/GJJYGX-0.41a-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/GJJYGX/GJJYGX-0.41a-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/cti",
+      "minimal_spec": "⭐️至尊R5K【8G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "43.4.12",
+      "mc_version": "1.19.2"
     }
   ]
 }
