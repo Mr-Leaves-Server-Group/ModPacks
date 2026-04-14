@@ -590,25 +590,6 @@
       "core_type": "forge",
       "core_version": "40.2.21",
       "mc_version": "1.18.2"
-    },{
-      "id":1031,
-      "name": "尘封古纪",
-      "version": "1.9",
-      "is_active": true,
-      "release_date": "2026-04-14",
-      "java_version": "17",
-      "total_mods": 208,
-      "support_author_url": "https://afdian.com/a/runrun",
-      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/CFGJ.webp",
-      "description":"战斗，战斗，还是™的战斗，187+boss（施工中）砍到爽",
-      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CFGJ/CFGJ-1.9-Server.zip",
-      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CFGJ/CFGJ-1.9-Client.zip",
-      "source_link": "https://bbsmc.net/modpack/cfgj",
-      "minimal_spec": "⬆️性能R3K【12G】",
-      "recommend_spec": "⭐️至尊R5K【16G】",
-      "core_type": "forge",
-      "core_version": "47.4.4",
-      "mc_version": "1.20.1"
     }
   ]
 }
