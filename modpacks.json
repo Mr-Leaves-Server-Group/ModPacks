@@ -96,9 +96,9 @@
       "source_link": "https://bbsmc.net/modpack/luomuqu",
       "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【8G】",
-      "core_type": "forge",
-      "core_version": "47.3.22",
-      "mc_version": "1.20.1"
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 1006,
@@ -136,9 +136,9 @@
       "source_link": "https://bbsmc.net/modpack/lzmx",
       "minimal_spec": "⬆️性能R3K【6G】",
       "recommend_spec": "⭐️至尊R5K【8G】",
-      "core_type": "none",
-      "core_version": "",
-      "mc_version": ""
+      "core_type": "forge",
+      "core_version": "47.3.22",
+      "mc_version": "1.20.1"
     },
     {
       "id":1008,
