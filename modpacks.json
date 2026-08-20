@@ -314,7 +314,7 @@
       "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JYWG/JYWG-1.20.2-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JYWG/JYWG-1.20.2-Client.zip",
       "source_link": "https://bbsmc.net/modpack/snk",
-      "minimal_spec": "⬆️性能R3K【12G】",
+      "minimal_spec": "⭐️至尊R5K【8G】",
       "recommend_spec": "⭐️至尊R5K【16G】",
       "core_type": "forge",
       "core_version": "47.4.20",
@@ -609,6 +609,26 @@
       "recommend_spec": "⭐️至尊R5K【16G】",
       "core_type": "forge",
       "core_version": "47.4.10",
+      "mc_version": "1.20.1"
+    },
+    {
+      "id":1032,
+      "name": "诡厄：使徒",
+      "version": "1.3.0",
+      "is_active": true,
+      "release_date": "2026-08-21",
+      "java_version": "17",
+      "total_mods": 314,
+      "support_author_url": "https://bbsmc.net/modpack/grae",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/GEST.webp",
+      "description":"本整合包主要模组为诡厄巫法，讲述的是一个喜欢游玩电子游戏的使徒被亚波伦赶到主世界，并失去力量，然后打算杀回去抢过天启之位，然后继续玩游戏的故事。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/GEST/GEST-1.3.0-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/GEST/GEST-1.3.0-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/grae",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⬆️性能R3K【12G】",
+      "core_type": "forge",
+      "core_version": "47.4.16",
       "mc_version": "1.20.1"
     }
   ]
