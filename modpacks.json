@@ -303,21 +303,21 @@
     {
       "id":1016,
       "name": "剑与王国",
-      "version": "1.10",
+      "version": "1.20.2",
       "is_active": true,
-      "release_date": "2026-04-11",
+      "release_date": "2026-08-21",
       "java_version": "17",
       "total_mods": 290,
       "support_author_url": "https://afdian.com/a/MCSNK",
       "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/JYWG.webp",
       "description":"本整合包并非简单堆砌模组，而是深度重构并融合两大核心模组（模拟殖民地、百年战争）的核心玩法，打造独特的“城建+指挥”体验。",
-      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JYWG/JYWG-1.10-Server.zip",
-      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JYWG/JYWG-1.10-Client.zip",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JYWG/JYWG-1.20.2-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/JYWG/JYWG-1.20.2-Client.zip",
       "source_link": "https://bbsmc.net/modpack/snk",
       "minimal_spec": "⬆️性能R3K【12G】",
       "recommend_spec": "⭐️至尊R5K【16G】",
       "core_type": "forge",
-      "core_version": "47.4.16",
+      "core_version": "47.4.20",
       "mc_version": "1.20.1"
     },
     {
@@ -590,6 +590,26 @@
       "core_type": "forge",
       "core_version": "40.2.21",
       "mc_version": "1.18.2"
+    },
+    {
+      "id":1031,
+      "name": "齿轮与腐肉",
+      "version": "0.50",
+      "is_active": true,
+      "release_date": "2026-08-21",
+      "java_version": "17",
+      "total_mods": 314,
+      "support_author_url": "https://www.clyfr.cn/",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/CLYFR.webp",
+      "description":"《齿轮与腐肉》是一款仿「僵尸毁灭工程」的废土末日风格整合包。在此包中你可以体验到庞大的城市搜索，独特的载具，空投，从0到太空的完整科技线路以及独特的硬核角色系统。",
+      "server_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CLYFR/CLYFR-0.50-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/CLYFR/CLYFR-0.50-Client.zip",
+      "source_link": "https://www.clyfr.cn/",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "47.4.10",
+      "mc_version": "1.20.1"
     }
   ]
 }
