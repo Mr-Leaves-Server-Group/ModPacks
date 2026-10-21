@@ -690,6 +690,26 @@
       "core_type": "forge",
       "core_version": "47.4.16",
       "mc_version": "1.20.1"
+    },
+    {
+            "id": 1036,
+      "name": "末日余晖-独自一人",
+      "version": "0.55.0-hotfix",
+      "is_active": true,
+      "release_date": "2026-10-21",
+      "java_version": "17",
+      "total_mods": 219,
+      "support_author_url": "https://afdian.com/a/a1060967671",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/MRYH.webp",
+      "description": "在经历终结之战后，世界迎来了短暂的平静，但秩序却荡然无存。联合政府分崩离析，社会进入无政府状态，幸存者分散成大大小小的自治群体。科技飞升带来了身体潜能开发与先进装备，但也加剧了资源争夺与势力冲突。尽管雏形心智被斩首，血肉之花凋零，但孢子生物的威胁仍未根除，“失落维度”成为封印危机的最后防线。",
+      "server_download_url": "MRYH-0.55.0-hotfix-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MRYH-DZYR/MRYH-0.55.0-hotfix-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/mryh",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "forge",
+      "core_version": "47.3.6",
+      "mc_version": "1.20.1"
     }
   ]
 }
