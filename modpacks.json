@@ -690,26 +690,6 @@
       "core_type": "forge",
       "core_version": "47.4.16",
       "mc_version": "1.20.1"
-    },
-    {
-      "id": 1036,
-      "name": "猎杀-历史1949",
-      "version": "BT",
-      "is_active": true,
-      "release_date": "2026-10-21",
-      "java_version": "21",
-      "total_mods": 286,
-      "support_author_url": "https://www.bilibili.com/video/BV1gNgK68ENZ",
-      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/LS-LS1949.webp",
-      "description": "该整合包的特色在于融合了浓厚历史元素，以战斗爽、搜打撤，慢节奏体验为主；旨在探索并实现纯PVE版猎杀对决的独特核心玩法，也即：围绕【狩猎打宝-蓝图收集-枪械成长-Boss攻坚】构建完整玩法闭环。",
-      "server_download_url": "LS-LS1949-BT-Server.zip",
-      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LS-LS1949/LS-LS1949-BT-Client.zip",
-      "source_link": "https://bbsmc.net/modpack/mc-1949",
-      "minimal_spec": "⭐️至尊R5K【8G】",
-      "recommend_spec": "⭐️至尊R5K【16G】",
-      "core_type": "forge",
-      "core_version": "47.4.16",
-      "mc_version": "1.20.1"
     }
   ]
 }
