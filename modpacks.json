@@ -2,7 +2,7 @@
   "modpacks": [
     {
       "id": 1001,
-      "name": "愚者-TheFool",
+      "name": "愚者TheFool",
       "version": "0.3.0",
       "is_active": true,
       "release_date": "2026-10-4",
@@ -730,6 +730,46 @@
       "core_type": "fabric",
       "core_version": "0.19.1",
       "mc_version": "1.21.1"
+    },
+    {
+      "id": 1038,
+      "name": "天空开拓者",
+      "version": "0.1.5",
+      "is_active": true,
+      "release_date": "2026-11-04",
+      "java_version": "25",
+      "total_mods": 207,
+      "support_author_url": "https://afdian.com/a/lesiry233",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/TKKKZ.webp",
+      "description": "本整合包优化了航空学在生存模式下的体验 前期就给了初始载具飞艇和大量材料 并且添加了一些“农作物”→“矿物”的产线 添加了几百种结构 数十种boss 载具商店 优化了地形生成和超视距体验 并且添加了枪械和冒险内容 最重要的是添加了一个和动态结构可以联动的高空作物催熟器（可以根据载具的高度提高周围作物的生长速度）和自制的航空学x灾变联动内容 里面强力的航空组件可以优化你的载具！ 借助这个包里简化后的产线 你可以带着你的移动工厂四处打卡探索挑战boss了！",
+      "server_download_url": "TKKKZ-0.1.5-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/TKKKZ/TKKKZ-0.1.5-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/skyexplorer",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "neoforge",
+      "core_version": "21.1.249",
+      "mc_version": "1.21.1"
+    },
+    {
+      "id": 1039,
+      "name": "方块闲境",
+      "version": "1.0.2hotfix",
+      "is_active": true,
+      "release_date": "2026-11-04",
+      "java_version": "17",
+      "total_mods": 209,
+      "support_author_url": "https://bbsmc.net/user/%E9%98%BF%E9%BE%99%E6%8B%89%E5%B1%8E%E6%95%99%E6%8E%88",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/FKXJ.webp",
+      "description": "厌倦无休止刷怪、繁杂流水线科技？想在 MC 拥有一份慢节奏田园生活，复刻星露谷物语治愈农场体验？《方块闲境》全新养老整合包正式发布，专为喜欢种田、建房、赏景、休闲经营的玩家打造，把山谷农场、四季农耕、烟火日常全部搬进方块世界。 这里没有强制任务束缚，节奏完全由你掌控。晨起耕耘良田，午后垂钓湖畔，傍晚烹制一桌农家美食，闲暇时扩建庭院、打造温馨小屋；若想出门散心，辽阔远景地形、多样群系风光尽收眼底；偶尔遭遇魔物，自带 TACZ 枪械模组轻松应对，休闲、风景、轻度冒险三者兼顾。",
+      "server_download_url": "FKXJ-1.0.2hotfix-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/FKXJ/FKXJ-1.0.2hotfix-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/fkxj",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "47.4.10",
+      "mc_version": "1.20.1"
     }
   ]
 }
