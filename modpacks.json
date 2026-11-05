@@ -790,6 +790,26 @@
       "core_type": "forge",
       "core_version": "47.4.23",
       "mc_version": "1.20.1"
+    },
+    {
+      "id": 1041,
+      "name": "勇者之章3",
+      "version": "3.12.15",
+      "is_active": true,
+      "release_date": "2026-11-05",
+      "java_version": "17",
+      "total_mods": 250,
+      "support_author_url": "https://pd.qq.com/s/fbfav8fy0",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/YZZZ.webp",
+      "description": "《勇者之章Ⅲ》是继前两章之后的全新冒险整合包，延续了勇者系列的精髓，为玩家带来更加丰富多样的游戏体验。在这里，你将面对更加强大的敌人，探索更加神秘的领域，收集更加珍贵的宝物。",
+      "server_download_url": "YZZZ-3.12.15-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/YZZZ/YZZZ-3.12.15-Client.zip",
+      "source_link": "https://bbsmc.net/modpack/chapter-of-yuusha-3",
+      "minimal_spec": "⬆️性能R3K【12G】",
+      "recommend_spec": "⭐️至尊R5K【16G】",
+      "core_type": "forge",
+      "core_version": "47.4.13",
+      "mc_version": "1.20.1"
     }
   ]
 }
