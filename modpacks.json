@@ -645,8 +645,8 @@
       "server_download_url": "QMSDWY-1.6.8-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/QMSDWY/QMSDWY-1.6.8-Client.zip",
       "source_link": "https://bbsmc.net/modpack/wss",
-      "minimal_spec": "⬆️性能R3K【12G】",
-      "recommend_spec": "⭐️至尊R5K【16G】",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
       "core_type": "neoforge",
       "core_version": "21.1.251",
       "mc_version": "1.21.1"
