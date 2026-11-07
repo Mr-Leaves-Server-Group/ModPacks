@@ -936,7 +936,7 @@
       "id": 1048,
       "name": "地下酒吧",
       "version": "1.2.0",
-      "is_active": false,
+      "is_active": true,
       "release_date": "2026-11-07",
       "java_version": "17",
       "total_mods": 117,
