@@ -931,6 +931,26 @@
       "core_type": "forge",
       "core_version": "47.4.20",
       "mc_version": "1.20.1"
+    },
+    {
+      "id": 1048,
+      "name": "地下酒吧",
+      "version": "1.2.0",
+      "is_active": false,
+      "release_date": "2026-11-07",
+      "java_version": "17",
+      "total_mods": 117,
+      "support_author_url": "https://space.bilibili.com/234058057",
+      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/DXJB.webp",
+      "description": "森罗物语酒馆的酿酒与调酒，女仆/机械动力自动化作物与酿酒，类小丑牌的顾客接待模式，随机生成城市内完成订单和购物，类药剂工艺的炼金调制玩法，轻度FPS五章帮派副本+6个Boss，基于VND模组的全流程剧情。",
+      "server_download_url": "DXJB-1.2.0-Server.zip",
+      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/DXJB/DXJB-1.2.0-Client.zip",
+      "source_link": "https://www.bilibili.com/video/BV17auR6GEWR",
+      "minimal_spec": "⬆️性能R3K【6G】",
+      "recommend_spec": "⭐️至尊R5K【8G】",
+      "core_type": "forge",
+      "core_version": "47.4.16",
+      "mc_version": "1.20.1"
     }
   ]
 }
