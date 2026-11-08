@@ -1108,9 +1108,9 @@
       "source_link": "https://space.bilibili.com/89847924",
       "minimal_spec": "⬆️性能R3K【12G】",
       "recommend_spec": "⭐️至尊R5K【16G】",
-      "core_type": "forge",
-      "core_version": "47.4.10",
-      "mc_version": "1.20.1"
+      "core_type": "none",
+      "core_version": "",
+      "mc_version": ""
     },
     {
       "id": 1057,
