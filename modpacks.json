@@ -1126,7 +1126,7 @@
       "server_download_url": "WJLR-1.1.8-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/WJLR/WJLR-1.1.8-Client.zip",
       "source_link": "https://www.bilibili.com/video/BV1oeSvBSEAm/",
-      "minimal_spec": "⬆️性能R3K【12G】",
+      "minimal_spec": "⭐️至尊R5K【16G】",
       "recommend_spec": "⭐️至尊R5K【16G】",
       "core_type": "none",
       "core_version": "",
@@ -1170,26 +1170,6 @@
       "recommend_spec": "⭐️至尊R5K【8G】",
       "core_type": "forge",
       "core_version": "47.4.22",
-      "mc_version": "1.20.1"
-    },
-    {
-      "id": 1060,
-      "name": "波澜",
-      "version": "1.2",
-      "is_active": true,
-      "release_date": "2026-11-08",
-      "java_version": "17",
-      "total_mods": 377,
-      "support_author_url": "https://space.bilibili.com/3493135632042194",
-      "logo_url": "BL.webp",
-      "description": "大型风景休闲整合包，沉溺于壮丽，在邂逅中寻找旅途。",
-      "server_download_url": "BL-1.2-Server.zip",
-      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/BL/BL-1.2-Client.zip",
-      "source_link": "https://www.bilibili.com/video/BV1enDkBiEoM",
-      "minimal_spec": "✅特惠EPC【8G】",
-      "recommend_spec": "⭐️至尊R5K【8G】",
-      "core_type": "fabric",
-      "core_version": "0.17.2",
       "mc_version": "1.20.1"
     }
   ]
