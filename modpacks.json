@@ -1202,7 +1202,7 @@
       "total_mods": 332,
       "support_author_url": "https://afdian.com/a/inolia_zaicek",
       "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/LYZP.webp",
-      "description": "涟漪之篇是一款以 BOSS 挑战为核心的 Minecraft 冒险整合包，整体难度较低。特色为集成作者“伊诺莉娅/九天绝弦”的模组，提供六种职业及线性套装路线，并通过击杀 BOSS 获取强化装备与通用饰品栏位。",
+      "description": "启动和加入都会非常久！涟漪之篇是一款以 BOSS 挑战为核心的 Minecraft 冒险整合包，整体难度较低。特色为集成作者“伊诺莉娅/九天绝弦”的模组，提供六种职业及线性套装路线，并通过击杀 BOSS 获取强化装备与通用饰品栏位。",
       "server_download_url": "LYZP-0.2.41-Server.zip",
       "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/LYZP/LYZP-0.2.41-Client.zip",
       "source_link": "https://space.bilibili.com/39589115",
@@ -1214,26 +1214,6 @@
     },
     {
       "id": 1062,
-      "name": "魔女之旅新规整合包",
-      "version": "2.8",
-      "is_active": true,
-      "release_date": "2026-11-10",
-      "java_version": "17",
-      "total_mods": 474,
-      "support_author_url": "https://space.bilibili.com/399074885",
-      "logo_url": "https://raw.githubusercontent.com/Mr-Leaves-Server-Group/ModPacks/main/logo/MNZL.webp",
-      "description": "《魔女之旅》是一款魔女之旅粉丝基于魔法旅行的初衷，以魔法探索和旅行结合为主题，打造的伊蕾娜为主人公的沉浸式体验的高版本MC整合包。通过围绕魔法研究的设计和旅行机制的创意为核心，将阡陌交通作为旅程的桥梁连接异世界不同风貌的建筑，创造了一个适宜“伊蕾娜”开启魔法旅行的世界。",
-      "server_download_url": "MNZL-2.8-Server.zip",
-      "client_download_url": "https://github.com/Mr-Leaves-Server-Group/ModPacks/releases/download/MNZL/MNZL-2.8-Client.zip",
-      "source_link": "https://space.bilibili.com/399074885",
-      "minimal_spec": "⬆️性能R3K【12G】",
-      "recommend_spec": "⭐️至尊R5K【16G】",
-      "core_type": "forge",
-      "core_version": "47.4.13",
-      "mc_version": "1.20.1"
-    },
-    {
-      "id": 1063,
       "name": "弥散往生",
       "version": "1.2.4-r2",
       "is_active": true,
@@ -1253,7 +1233,7 @@
       "mc_version": "1.21.1"
     },
     {
-      "id": 1064,
+      "id": 1063,
       "name": "摄影奇境",
       "version": "0.2.5-Beta2",
       "is_active": true,
@@ -1273,7 +1253,7 @@
       "mc_version": "1.21.1"
     },
     {
-      "id": 1065,
+      "id": 1064,
       "name": "森语田园",
       "version": "1.2.1",
       "is_active": true,
