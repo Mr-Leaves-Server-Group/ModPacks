@@ -41,7 +41,7 @@
       "file_id": 9555002,
       "name": "更好的MC",
       "version": "63 HF",
-      "is_active": false,
+      "is_active": true,
       "release_date": "2026-11-14",
       "java_version": "17",
       "total_mods": 383,
