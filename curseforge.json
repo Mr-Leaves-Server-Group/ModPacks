@@ -44,14 +44,14 @@
       "is_active": false,
       "release_date": "2026-11-14",
       "java_version": "17",
-      "total_mods": 0,
+      "total_mods": 383,
       "description": "版本：1.20.1｜正宗原版增强整合包｜别玩原版，来玩这个！",
       "client_download_url": "https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc4/install/9554990",
       "translate_download_url": "https://bbsmc.net/language/better-mc-forge-bmc4-cn/version/9554990-zh_CN-81ca4150",
       "minimal_spec": "⭐️至尊R5K【8G】",
       "recommend_spec": "⭐️至尊R5K【8G】",
-      "core_type": "",
-      "core_version": "",
+      "core_type": "forge",
+      "core_version": "47.4.20",
       "mc_version": "1.20.1"
     },
     {
@@ -111,7 +111,7 @@
     {
       "id": 0,
       "file_id": 0,
-      "name": "僵尸启示录",
+      "name": "",
       "version": "",
       "is_active": false,
       "release_date": "",
